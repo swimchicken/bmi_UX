@@ -49,7 +49,7 @@ for test in range(100):
         break
     
     #judge = input("繼續請輸入1,終止請按0:")
-    
+
     #if judge == "0":
         #break
     #else:
